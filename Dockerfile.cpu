@@ -1,0 +1,3 @@
+FROM zyclonite/sysbench
+COPY ./cpuTest.sh /
+ENTRYPOINT ["sh", "/cpuTest.sh"]
