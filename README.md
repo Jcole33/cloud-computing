@@ -9,3 +9,8 @@
 ## HW 2 Main Files: ##
 - Cloud_Assignment2.pdf - Description: Report pdf (includes screenshots and question answers)
 - functions/ - Description: folder including all files from the faas-cli tests
+
+## HW 3 Main Files: ##
+- binary_tree.py - Description: python code for making custom binary tree topography
+- of_tutoria.py - Description: python code for pox switch
+- HW_3_Questions.pdf - Description: Answers to all of the exercise questions
